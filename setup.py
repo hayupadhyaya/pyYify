@@ -33,7 +33,7 @@ with open("README.rst"  ,"r") as f:
 setup(
     name='pyYify',
     packages = ['pyYify'] ,
-    version = 'v2.0.0',
+    version = 'v1.9.0',
     py_modules =['os' , 're', 'json' , 'urllib' , 'time' , 'requests'] ,
     description = 'This Module is used to get the Top seeded torrents at any given time and get the entire movie details and ratings . Its also useful to search for any movie using different parameters and obtain their magnet link or torrent file of any prefered quality.'
      ,
